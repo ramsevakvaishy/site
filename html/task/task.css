@@ -1,0 +1,21 @@
+.container{background-color: red;
+width: 100px;
+height: 100px;
+position: absolute;
+top: 105px;
+left: 105px;}
+
+
+.blue{background-color: blue;
+width: 100px;
+height: 100px;
+position:absolute;
+top: 200px;
+left: 200px;
+
+}
+.yellow{background-color: yellow;
+width: 100px;
+height: 100px;
+position:absolute;
+}
